@@ -4,7 +4,7 @@ Hi there! 👋 My name is Kirill!
 Frontend developer
 ------------------
 
-My education: Bachelor's degree in 09.03.03 Applied Informatics
+My education: [Hexlet School](https://ru.hexlet.io/u/tracktor)
 
 * 🌍  I'm based in Volgodonsk, Russia
 * ✉️  You can contact me at [tracktor@bk.ru](mailto:tracktor@bk.ru)
