@@ -9,12 +9,12 @@ My education: [Hexlet School](https://ru.hexlet.io/u/tracktor)
 * 🌍  I'm based in Volgodonsk, Russia
 * ✉️  You can contact me at [tracktor@bk.ru](mailto:tracktor@bk.ru)
 * 🐶  My pet-project is [Words Game](https://github.com/tracktor-git/words-react)
-* 🧠  I'm currently learning TypeScript
+* 🚀  I'm currently learning TypeScript
 * 🤝  I'm open to collaborating on OpenSource projects
 
 ### Hard Skills
 
-<div style="display: flex; gap: 30px;">
+<div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -31,5 +31,13 @@ My education: [Hexlet School](https://ru.hexlet.io/u/tracktor)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/tracktor-git" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+    <a href="https://www.github.com/tracktor-git" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+        </picture>
+    </a>
+</p>
 
