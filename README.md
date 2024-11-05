@@ -24,8 +24,8 @@ My education: Bachelor's degree in 09.03.03 Applied Informatics
 </div>
 
 ### Soft Skills
-<p>💎 Fast lerner</p>
-<p>💎 Perfectionism</p>
+<p>💎 Fast learner</p>
+<p>💎 Perfectionist</p>
 <p>💎 Self-Disciplined</p>
 <p>💎 Self-sufficiant worker, but also work good in a team</p>
 
